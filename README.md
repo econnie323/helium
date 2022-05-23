@@ -6,7 +6,11 @@ This guide is intended to provide a simple software to implement a basic GPS sen
 
 <img src="TTGOLora32.png" width="800">
 
-The board that I chose for this project is the TTGO Lora32 v1. This board is based on the ESP32. I use a Neo-M6 GPS sensor connected at 12 and 13 pinout.
+The board that I chose for this project is the TTGO Lora32 v1. This board is based on the ESP32.
+
+<img src="NEO6M.png" width="800">
+
+I use a Neo-6M GPS sensor connected at pin 12 and 13.
 
 The code will work with many different dev boards, check the `LMIC-node Supported Boards list` if you have something other than the TTGO Lora32.
 
