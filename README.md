@@ -8,7 +8,7 @@ This guide is intended to provide a simple software to implement a basic GPS sen
 
 The board that I chose for this project is the TTGO Lora32 v1. This board is based on the ESP32.
 
-<img src="NEO6M.png" width="800">
+<img src="NEO6M.png" width="400">
 
 I use a Neo-6M GPS sensor connected at pin 12 and 13.
 
